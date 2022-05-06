@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kapztopher
+- 👀 I’m interested in Arduino programming. 
+-  Currently im looking at the IRremote header file and trying to figure out how to set it for use with an Robosapien. 
