@@ -1,8 +1,10 @@
-## Chris Matheson
+## KAPZTOPHER
+
+*AKA* **Chris Matheson**
 
 
 
-*This is intended to host webpages, circuit schematics and microcontroller code.  I accept NO RESPONSIBILITY for the use and construction of any design or code I publish,  USER BE WARE I DO NOT CARE!!!!*
+*This is intended to host webpages, circuit schematics and microcontroller code.  I accept NO RESPONSIBILITY for the use and construction of any design or code I publish,  USER BEWARE I DO NOT CARE!!!!*
 
 ### Circuit schematics
 
@@ -18,9 +20,10 @@
 - Simple RF designs.
 - Attempts at making an IR signal reader, (reasonably effective "hashing" based signal interputation.
 - NRF24L01 based RC transciever code.
-- RC code based on simple and cheap 433MHz transmitter and reciever,  has data encryption and work reliably over a range of a metre lol.
+- RC code based on simple and cheap 433MHz transmitter and reciever,  has data checking and works reliably over a range of a metre lol.
 
 
-### Web pages
+### Web page
 
-- (https://kapztopher.github.io/Project_list/) page, (a summary of things i have been up to project wise).
+- (https://kapztopher.github.io/Project_list/), a summary of things I have been up to project wise.  Has videos of progress and displays of design functionalities.
+
