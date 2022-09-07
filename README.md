@@ -27,3 +27,9 @@
 
 - (https://kapztopher.github.io/Project_list/), a summary of things I have been up to project wise.  Has videos of progress and displays of design functionalities.
 
+### Things to do
+- [ ]   Post circuit schematics and PCB layouts
+- [ ]   Post code for Arduino projects
+- [ ]   Link Arduino code to relevant circuit schematics
+- [ ]   Complete Rocker Boogie system
+- [ ]   Complete LGCG, re-design into compact system.
