@@ -29,7 +29,7 @@
 
 ### Things to do
 - [X]   Post circuit schematics and PCB layouts
-- [ ]   Post code for Arduino projects
+- [X]   Post code for Arduino projects
 - [ ]   Link Arduino code to relevant circuit schematics
 - [ ]   Complete Rocker Boogie system
 - [ ]   Complete LGCG, re-design into compact system.
